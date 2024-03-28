@@ -1,6 +1,12 @@
 ### Hi there 👋
 ---
 I am Anwar, and I am currently a student at [Universiti Teknologi Malaysia](https://www.utm.my).
+
+## About Me 🚀
+
+### Research Interests
+- **Augmented Reality (AR)**
+- **AR Occlusion Handling**
 <!--
 **muhd-anwar/muhd-anwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
