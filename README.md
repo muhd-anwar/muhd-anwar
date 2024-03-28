@@ -7,6 +7,11 @@ I am Anwar, and I am currently a student at [Universiti Teknologi Malaysia](http
 ### Research Interests
 - **Augmented Reality (AR)**
 - **AR Occlusion Handling**
+
+## Skills 🛠️
+- Programming languages: C++, C#, HTML, PHP
+- Development: Unity
+
 <!--
 **muhd-anwar/muhd-anwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
