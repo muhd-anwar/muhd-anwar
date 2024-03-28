@@ -9,8 +9,8 @@ I am Anwar, and I am currently a student at [Universiti Teknologi Malaysia](http
 - **AR Occlusion Handling**
 
 ## Skills 🛠️
-- Programming languages: C++, C#, HTML, PHP
-- Development: Unity
+- Programming languages: C++, C#, HTML, Javascript, PHP, MySQL
+- Development: Unity, VSCode
 
 <!--
 **muhd-anwar/muhd-anwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
